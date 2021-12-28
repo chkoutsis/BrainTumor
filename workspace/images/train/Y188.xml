@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Y188.jpg</filename>
+	<path>C:\Users\xaris\imagesegmentation\Brain Tumor-Master\Tensorflow\workspace\images\collectedimages\Y188.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>766</width>
+		<height>879</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tumor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>335</ymin>
+			<xmax>412</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>
